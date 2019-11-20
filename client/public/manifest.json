@@ -6,7 +6,12 @@
     {
       "src": "favicon.ico",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "images/png"
+    },
+    {
+      "src": "icon",
+      "sizes": "512X512",
+      "type": "images/png"
     }
   ],
   "start_url": "./index.html",
