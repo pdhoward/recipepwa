@@ -8,5 +8,7 @@
 
 [Create React App Service Worker Docs](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 
+[Workbox in CRA Service Worker](https://web.dev/precache-with-workbox-react/)
+
 
 
